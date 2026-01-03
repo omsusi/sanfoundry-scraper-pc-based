@@ -72,13 +72,13 @@ python refined.py
 
 **🚩 Batch Size Limits**
 
-Do not attempt to scrape huge batches (e.g., 50+ chapters) in one go. Scraping very large amounts of data in a single session can lead to:
+Do not attempt to scrape huge batches (e.g., 5+ chapters) in one go. Scraping very large amounts of data in a single session can lead to:
 
 * Images not fetching correctly (leaving blank spaces in the PDF).
 * Memory exhaustion during the PDF rendering phase.
 * Timeouts in the Playwright engine.
 
-**Best Practice:** Scrape in batches of 10–20 chapters at a time for the highest quality results.
+**Best Practice:** Scrape in batches of 1–3 chapters at a time for the highest quality results.
 
 **🚩 Browser Visibility & Ads**
 

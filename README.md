@@ -81,6 +81,3 @@ I specialize in building scrapers that handle:
 
 *Educational purposes only. Please respect the robots.txt and Terms of Service of the target website.* This project is licensed under the **MIT License**.
 
-```
-
----

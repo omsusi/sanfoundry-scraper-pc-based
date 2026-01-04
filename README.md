@@ -25,7 +25,7 @@ Most scrapers fail when they hit Sanfoundry's anti-bot layers, complex math symb
 ### 🛠️ Installation & Setup
 
 1. **Clone & Navigate**
-   ```bash
+```bash
    git clone [https://github.com/omsusi/sanfoundry-scraper-pc-based.git](https://github.com/omsusi/sanfoundry-scraper-pc-based.git)
    cd sanfoundry-scraper-pc-based
 

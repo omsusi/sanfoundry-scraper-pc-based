@@ -13,7 +13,7 @@ Most scrapers fail when they hit Sanfoundry's anti-bot layers, complex math symb
 In the world of scraping, speed often leads to broken images and missing symbols. This tool follows the philosophy of **Slow is Smooth, Smooth is Fast**:
 
 * **Blindly Reliable:** Designed to handle ad-popups and network stutters without losing data.
-* **Math-First:** Every exponent (), subscript (), and expression is captured exactly as intended.
+* **Math-First:** Every exponent ($x^2$), subscript ($H_2O$), and expression is captured exactly as intended.
 * **Context-Aware:** Images are intelligently "baked" into their specific MCQ context, not just appended to the end.
 
 ---

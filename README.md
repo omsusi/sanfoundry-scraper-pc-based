@@ -32,7 +32,7 @@ If you require custom features or want to hire me for a project:
 
 * **Developer:** Omsubhra Singha
 * **GitHub:** [omsusi](https://www.google.com/search?q=https://github.com/omsusi)
-* **Inquiries:** Please open an **Issue** on this repository or reach out via [email](omsubhrasingha21@gmail.com).
+* **Inquiries:** Please open an **Issue** on this repository or reach out via [email](mailto:omsubhrasingha21@gmail.com).
 
 ---
 
